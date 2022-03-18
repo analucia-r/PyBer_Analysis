@@ -11,7 +11,8 @@ The second pie chart explains the total percentage rides by city type, like ment
 <img width="258" alt="image" src="https://user-images.githubusercontent.com/92067596/158920480-2fd2df72-09dd-463c-969f-69169f47aa7a.png">
 The last pie chart onces agains proves that ride sharing apps have more drivers in urban citites because of higher demand. With 80.9% it shows drivers are more active and have more work opprtunity in the urban cities compares to rural or surburban. In Rural areas which is usally characterized by the countryside and homes are so spread out there is also more use of personal vehicles and on our pie chart holding a palce at 2.6% it's total drivers working for ride share. 
 
-<img width="391" alt="Screenshot 2022-03-17 213442" src="https://user-images.githubusercontent.com/92067596/158920649-971d7b19-2148-40fc-9189-1a5978a2b34f.png">
+<img width="227" alt="Screenshot 2022-03-18 183024" src="https://user-images.githubusercontent.com/92067596/159092886-27654dd1-8371-4f89-8b0d-5600d532ab18.png">
+
 This data frame shows the Pyber summary of total rides, total drivers, total fares, average fare per ride and per driver in each city type. It seems to be when there is a higher total rides by default means there is more drivers doing the work. Meaning more profit for the Pyber company but dividing the total fare by more drivers means the far that each driver is making is far less then working with a smallar population in rural or surbuban cities. 
 
 <img width="618" alt="image" src="https://user-images.githubusercontent.com/92067596/158920685-75fc86a9-2b0d-477f-bd3a-3c2af60d62bf.png">
